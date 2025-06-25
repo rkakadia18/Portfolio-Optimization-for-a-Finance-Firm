@@ -1,1 +1,2 @@
 # Portfolio-Optimization-for-a-Finance-Firm
+Optimized a blue-chip investment portfolio for high-net-worth clients, balancing return maximization with risk, transaction costs, and client trust considerations. Built a two-part Excel Solver model that handled base-case portfolio selection and real-world adjustments like weight limits and transaction fees. Analyzed shadow prices and efficient frontiers to guide smarter, client-focused investment strategies under practical constraints.
